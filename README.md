@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gybran Khairul Anam</h1>
 <h3 align="center">A passionate Machine Learning</h3>
-<img src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif" align="right" width="400" alt="Animated Machine Learning GIF">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gybranam&label=Profile%20views&color=0e75b6&style=flat" alt="gybranam" /> </p>
 
